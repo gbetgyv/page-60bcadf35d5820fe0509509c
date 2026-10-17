@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7fdcade68269fbae1e49e7a4",
+  "owner": "gbetgyv",
+  "repo": "page-60bcadf35d5820fe0509509c",
+  "title": "喵喵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "60bcadf35d5820fe0509509c",
+      "a": "喵喵",
+      "b": "",
+      "entity": "喵喵",
+      "brand": "喵喵",
+      "separator": "",
+      "path": "index.html",
+      "hash": "32fa14defe034bf3cacb4ad59cc0c770777f880c5892ee15cc4d2dc3f1356224",
+      "content": {
+        "keyword1": "喵喵",
+        "keyword2": "",
+        "primary_entity": "喵喵",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "喵喵是一项按月订阅的网络中继服务。本页面以说明书形式记录套餐规格、流量配额、设备并发上限与常见问题，供订阅者在开通前查阅。",
+          "AI_DESCRIPTION": "喵喵是一项按月订阅的网络中继服务。本页面以说明书形式记录套餐规格、流量配额、设备并发上限与常见问题，供订阅者在开通前查阅。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box;margin: 0;padding: 0}\nhtml {-webkit-text-size-adjust: 100%}\nbody {background: #2b201a;color: #f3f7f4;font-family: -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height: 1.75;font-size: 16px}\n.wrap {max-width: 760px;margin: 0 auto;padding: 0 24px}\nnav.topbar {border-bottom: 1px solid #4a3b2f;background: #241a14;font-size: 13px}\nnav.topbar .wrap {display: flex;justify-content: space-between;align-items: center;height: 44px}\nnav.topbar .brand {font-weight: 600;color: #7fd1b7;letter-spacing: 0.08em}\nnav.topbar .links a {color: #c9bdb1;text-decoration: none;margin-left: 18px}\nnav.topbar .links a:hover {color: #7fd1b7}\nheader.hero {padding: 80px 0 40px;border-bottom: 1px solid #4a3b2f}\nheader.hero .kicker {font-size: 12px;color: #7fd1b7;letter-spacing: 0.2em;text-transform: uppercase;margin-bottom: 24px}\nheader.hero h1 {font-size: 30px;font-weight: 600;margin-bottom: 28px;line-height: 1.4;color: #f3f7f4}\nheader.hero p {font-size: 16px;color: #c9bdb1;margin-bottom: 16px;text-align: justify}\nsection {padding: 56px 0;border-bottom: 1px solid #4a3b2f}\nsection h2 {font-size: 22px;font-weight: 600;margin-bottom: 8px;color: #7fd1b7}\nsection h2 + p {color: #9b8e80;font-size: 13px;margin-bottom: 36px}\n.plan {margin-bottom: 48px}\n.plan:last-child {margin-bottom: 0}\n.plan-head {display: flex;justify-content: space-between;align-items: baseline;border-bottom: 1px solid #4a3b2f;padding-bottom: 12px;margin-bottom: 20px}\n.plan-name {font-size: 18px;font-weight: 600;color: #f3f7f4}\n.plan-tag {font-size: 11px;color: #2b201a;background: #7fd1b7;padding: 2px 8px;letter-spacing: 0.1em}\n.plan-price {font-size: 15px;color: #f3f7f4}\n.plan-price small {display: block;font-size: 12px;color: #9b8e80;margin-top: 2px}\n.plan ul {list-style: none}\n.plan ul li {padding: 10px 0;border-bottom: 1px dashed #3d3027;font-size: 15px;color: #c9bdb1;display: flex;justify-content: space-between}\n.plan ul li::before {content: \"—\";color: #7fd1b7;margin-right: 12px}\n.plan ul li span {flex: 1}\n.usage ol {list-style: none;counter-reset: step}\n.usage ol li {counter-increment: step;padding: 16px 0 16px 48px;position: relative;font-size: 15px;color: #c9bdb1;border-bottom: 1px solid #3d3027}\n.usage ol li::before {content: counter(step, decimal-leading-zero);position: absolute;left: 0;top: 16px;color: #7fd1b7;font-size: 13px;letter-spacing: 0.1em}\n.usage ol li strong {color: #f3f7f4;font-weight: 600}\n.faq details {border-bottom: 1px solid #3d3027;padding: 18px 0}\n.faq summary {cursor: pointer;font-size: 15px;color: #f3f7f4;font-weight: 500;list-style: none;display: flex;justify-content: space-between;align-items: center}\n.faq summary::-webkit-details-marker {display: none}\n.faq summary::after {content: \"+\";color: #7fd1b7;font-size: 18px}\n.faq details[open] summary::after {content: \"−\"}\n.faq .answer {margin-top: 12px;font-size: 14px;color: #9b8e80;line-height: 1.8}\nfooter {padding: 48px 0 64px}\nfooter .wrap {font-size: 12px;color: #6b5e51}\nfooter p {margin-bottom: 8px}\n@media (max-width: 600px) {\n  header.hero h1 {font-size: 24px}\n  nav.topbar .links a {margin-left: 12px}\n  .plan-head {flex-direction: column;align-items: flex-start;gap: 8px}\n}\n</style><nav class=\"topbar\">\n  <div class=\"wrap\">\n    <span class=\"brand\">喵喵</span>\n    <span class=\"links\">\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </span>\n  </div>\n</nav>\n\n<header class=\"hero\">\n  <div class=\"wrap\">\n    <div class=\"kicker\">服务说明书 / 第 01 节</div>\n    <h1>喵喵是一项按月订阅的网络中继服务，本页面用于在开通前完成规格确认。</h1>\n    <p>本说明书按\"先读规格、再付订阅\"的顺序编写。页面中列出的流量配额、设备并发数、线路池分级与工单响应策略，均为订阅生效后实际执行的参数。若你尚未确认这些参数与自身需求的匹配度，建议先完整阅读\"使用说明\"与\"常见问题\"两节，再决定是否开通。</p>\n    <p>服务采用预付费按月计费模式，订阅周期以自然月为单位起算。流量配额在订阅周期内有效，不自动结转至下一周期。设备并发上限以同时建立连接的客户端实例数为准，超出限制的新连接将被拒绝建立。</p>\n    <p>下列章节依次为：套餐规格、使用说明、常见问题。各节内容相互独立，可按需跳读。</p>\n  </div>\n</header>\n\n<main>\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <h2>套餐规格</h2>\n      <p>以下三个套餐自上而下按流量与并发能力递增排列，规格均为订阅周期内固定值。</p>\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <span class=\"plan-name\">基础版</span>\n          <span class=\"plan-price\">¥15/月<small>按年付 ¥150/年</small></span>\n        </div>\n        <ul>\n          <li><span>每月 100GB 流量配额</span></li>\n          <li><span>最多 3 台设备同时在线</span></li>\n          <li><span>基础线路节点池接入</span></li>\n          <li><span>普通优先级工单响应</span></li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <span class=\"plan-name\">旗舰版 <span class=\"plan-tag\">推荐</span></span>\n          <span class=\"plan-price\">¥35/月<small>按年付 ¥350/年</small></span>\n        </div>\n        <ul>\n          <li><span>每月 300GB 流量配额</span></li>\n          <li><span>最多 5 台设备同时在线</span></li>\n          <li><span>全节点接入，含原生流媒体线路</span></li>\n          <li><span>IPLC 专线用于低延迟场景</span></li>\n          <li><span>7×24 优先工单响应</span></li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <span class=\"plan-name\">团队版</span>\n          <span class=\"plan-price\">¥85/月<small>按年付 ¥850/年</small></span>\n        </div>\n        <ul>\n          <li><span>每月 1000GB 流量配额</span></li>\n          <li><span>最多 20 台设备同时在线</span></li>\n          <li><span>VIP 高带宽节点池接入</span></li>\n          <li><span>支持企业定制路由策略</span></li>\n          <li><span>专属客户经理对接</span></li>\n        </ul>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"usage\" class=\"usage\">\n    <div class=\"wrap\">\n      <h2>使用说明</h2>\n      <p>开通订阅后，按下列步骤配置客户端。各步骤之间存在依赖关系，不建议跳序执行。</p>\n      <ol>\n        <li><strong>获取接入凭据。</strong>订阅生效后，凭据将以页面展示或站内消息形式提供，包含服务器地址、端口与认证信息。</li>\n        <li><strong>选择客户端。</strong>根据设备操作系统选择兼容的中继客户端，喵喵不限定具体软件，但不提供客户端下载地址。</li>\n        <li><strong>填入服务器与认证参数。</strong>将第一步获取的地址、端口、认证方式填入客户端连接配置。协议类型以凭据标注为准。</li>\n        <li><strong>建立连接并验证。</strong>启动客户端连接，通过客户端内置状态或目标网络返回值确认中继链路是否建立成功。</li>\n        <li><strong>排查并发与流量。</strong>若连接被拒绝，先核对在线设备数是否已达套餐上限；若速度异常，核对剩余流量配额是否耗尽。</li>\n      </ol>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq\">\n    <div class=\"wrap\">\n      <h2>常见问题</h2>\n      <p>以下问题按订阅者咨询频率排列，答案以本服务实际执行策略为准。</p>\n\n      <details>\n        <summary>流量配额是否可以结转到下个月？</summary>\n        <div class=\"answer\">不可以。每月配额在订阅周期结束时清零，下一周期按套餐规格重新发放。若当前周期配额提前耗尽，连接将被暂停至下一周期起算时间，或可选择提前续订以重置配额。</div>\n      </details>\n\n      <details>\n        <summary>设备并发上限如何计算？</summary>\n        <div class=\"answer\">以同时建立中继连接的客户端实例数为准。同一台设备运行多个客户端实例，每个实例计入一个并发名额。超出上限的新连接请求将被拒绝，已有连接不受影响。</div>\n      </details>\n\n      <details>\n        <summary>基础版与旗舰版的线路池差异在哪里？</summary>\n        <div class=\"answer\">基础版接入普通节点池，不保证特定业务线路可用性。旗舰版接入全节点池，包含原生流媒体线路与 IPLC 专线，后者用于对延迟敏感的场景。线路池分级在订阅周期内固定，不随使用量变化。</div>\n      </details>\n\n      <details>\n        <summary>订阅是否支持中途变更套餐？</summary>\n        <div class=\"answer\">支持。变更在下一计费周期生效，当前周期内套餐规格不变。若升级至更高规格套餐，流量配额不即时补发，而是在新周期起算时按新套餐发放。</div>\n      </details>\n\n      <details>\n        <summary>团队版的企业定制路由具体指什么？</summary>\n        <div class=\"answer\">指根据企业订阅者提供的网络出口需求，由专属客户经理协助配置固定出口节点或目标地址分流策略。定制需求需在订阅生效后另行提交，配置生效时间以客户经理回复为准。</div>\n      </details>\n\n      <details>\n        <summary>是否提供客户端下载？</summary>\n        <div class=\"answer\">喵喵不提供客户端软件下载，也不绑定特定客户端。订阅者需自行选择与设备操作系统兼容的中继客户端，并使用本服务提供的凭据完成配置。</div>\n      </details>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div class=\"wrap\">\n    <p>本页面为喵喵服务说明书，所列规格以订阅周期内实际执行参数为准。</p>\n    <p>未在本文档中列出的参数，以订阅生效时站内公示为准。</p>\n  </div>\n</footer>",
+          "hash": "ecb3adfbf44228390d702d171ebfa5c206a061d35010f550faa9eca638047a91",
+          "seo": {
+            "title": "喵喵 — 网络中继服务说明",
+            "keywords": "喵喵, 网络中继, 流量套餐, 设备接入, 服务说明",
+            "description": "喵喵是一项按月订阅的网络中继服务。本页面以说明书形式记录套餐规格、流量配额、设备并发上限与常见问题，供订阅者在开通前查阅。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4428",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8023shop.cn",
+    "host": "p-f15836b4d0.8023shop.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "82b19f2199956ed60a4e43d1bdd57b11dc7e11a05b8e0860e25283e94e834f34",
+    "sitemap.xml": "a7e8414da32aef1e96d8145ebca42670ff37ef9a1dbe6d367cf902bda5d5efdd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e69f9cfb21777bdb9870be555363be3bbab0fef4da711e20aadf8910a3a7c4bb",
+    "robots.txt": "40278c13db214b39a40b8a1cf4f2b6dc00477ff13f5a4e1b9143ab6b424c2041",
+    "1f5d568facddf4e8d7b6b5c48f481b1c.txt": "2a34e6b38aa1e0506f39abb8ebedcfa643a9f2eaafd9c0c59dca856087aa7c4f"
+  },
+  "revision": "f9373292d73a663c8bfeb53e09b5fa30b914739c839313d064aee5c7436c8f9f"
+}
